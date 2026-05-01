@@ -120,8 +120,8 @@ project-root/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/alexneilgreen/UCF-AIAutonomousSystems-TrajectoryPredictionDNNs.git
-cd UCF-AIAutonomousSystems-TrajectoryPredictionDNNs
+git clone https://github.com/alexneilgreen/UCF-AIforAutonomousSystems-TrajectoryPredictionDNNs.git
+cd UCF-AIforAutonomousSystems-TrajectoryPredictionDNNs
 
 # 2. Create and activate a Conda environment
 conda create -n courseproject python=3.9
